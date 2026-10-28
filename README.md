@@ -233,4 +233,4 @@ NOD32 Antivirus is offered as a full free version with all features and updates 
 Take action now and ensure your system is protected with NOD32 Antivirus. Download your free version today!
 
 ---
-**Last updated:** 2026-10-28 13:43:16 UTC
+**Last updated:** 2026-10-28 19:14:01 UTC
